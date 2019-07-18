@@ -10,8 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //added a comment from github
-            //added another comment
+            int x = 5;
+            int y = 6;
+            int sum = x + y;
+            Console.WriteLine(sum);
         }
     }
 }
