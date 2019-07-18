@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int x = 5;
+            int x = 52;
             int y = 6;
             int sum = x + y;
             Console.WriteLine(sum);
