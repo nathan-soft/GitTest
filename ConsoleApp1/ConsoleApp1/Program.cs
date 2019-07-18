@@ -14,6 +14,7 @@ namespace ConsoleApp1
             int y = 6;
             int sum = x + y;
             Console.WriteLine(sum);
+            Console.ReadLine
         }
     }
 }
